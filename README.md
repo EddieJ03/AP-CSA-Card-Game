@@ -1,4 +1,4 @@
-# Elevents and Thirteens Card Game
+# Elevens and Thirteens Card Game
 
 ## Description
 Fully functional card games that can be played with GUI or in Console.
